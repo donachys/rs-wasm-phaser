@@ -1,0 +1,10 @@
+[package]
+name = "rs-wasm-phaser"
+version = "0.1.0"
+authors = ["donachys <donachys@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+
